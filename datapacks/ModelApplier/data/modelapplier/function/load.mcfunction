@@ -1,0 +1,14 @@
+scoreboard objectives add applymodel trigger
+scoreboard objectives add applyequipment trigger
+scoreboard objectives add applyequipwait dummy
+scoreboard objectives add applypainting trigger
+scoreboard objectives add applyglint trigger
+scoreboard objectives add resetall trigger
+scoreboard objectives add resetname trigger
+scoreboard objectives add resetitemmodel trigger
+scoreboard objectives add resetequipmentmodel trigger
+scoreboard objectives add resetglint trigger
+scoreboard objectives add resetpainting trigger
+scoreboard objectives add resetslot trigger
+scoreboard objectives add slotapplier trigger
+tellraw @a "ModelApplier has loaded"
