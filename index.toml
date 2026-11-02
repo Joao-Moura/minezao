@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "banned-ips.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "banned-players.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
 file = "datapacks/afk display v1.1.14/data/afk_display/function/check_afk.mcfunction"
 hash = "98951f8730cd6883cde6e729395abc01e4711843dfeccd1828c635dc20f12900"
 
@@ -277,6 +269,10 @@ file = "datapacks/track raw statistics v1.7.10/pack.png"
 hash = "3a58298ce6535db0207964eb57d6e3297ec7b29c400b965582a73550b334c057"
 
 [[files]]
+file = "docker-compose.yml"
+hash = "19d0b33c15787d55dd4dffb6e355b1d5001d30eb334a7067b8616d5595b23724"
+
+[[files]]
 file = "logs/.gitkeep"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -341,8 +337,8 @@ hash = "7f46f79cd9c81ae5758ba965a862527356e49d84703d45fc1623a798bee2ec8a"
 metafile = true
 
 [[files]]
-file = "whitelist.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+file = "scripts/gera-mrpack.sh"
+hash = "1bee2fc69c9695ad664d4c3e1fa659c8a291e6abe4254f9545cab0b384d5e018"
 
 [[files]]
 file = "world/.gitkeep"

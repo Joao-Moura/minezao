@@ -1,2 +1,4 @@
 world/*
 logs/*
+.env
+*.mrpack

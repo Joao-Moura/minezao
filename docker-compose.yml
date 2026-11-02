@@ -1,0 +1,36 @@
+services:
+  minecraft:
+    image: itzg/minecraft-server:java21
+    container_name: minecraft
+    environment:
+      EULA: "TRUE"
+      TYPE: "FABRIC"
+      VERSION: "1.21.10"
+      MODRINTH_MODPACK: "minezao.mrpack"
+      MEMORY: "7G"
+      USE_AIKAR_FLAGS: "true"
+      TZ: "America/Sao_Paulo"
+
+      # Segurança
+      ONLINE_MODE: "TRUE"
+      # WHITELIST: "nick1,nick2"
+      # ENFORCE_WHITELIST: "TRUE"
+      # OPS: "SeuNick"
+      ENABLE_RCON: "TRUE"
+      RCON_PASSWORD: ${RCON_PASSWORD}
+
+      REMOVE_OLD_MODS: "TRUE"
+    volumes:
+      - ./data:/data
+      - ./config:/config
+      - ./world:/world
+      - ./logs:/logs
+      - ./mods:/mods:ro
+      - ./datapacks:/datapacks:ro
+    ports:
+      - "25565:25565"         # jogo (TCP)
+      - "24454:24454/udp"     # Simple Voice Chat
+    mem_limit: 8g
+    cpus: 1.75
+    stop_grace_period: 60s
+    restart: unless-stopped
