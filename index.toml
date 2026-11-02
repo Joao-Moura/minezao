@@ -270,7 +270,7 @@ hash = "3a58298ce6535db0207964eb57d6e3297ec7b29c400b965582a73550b334c057"
 
 [[files]]
 file = "docker-compose.yml"
-hash = "19d0b33c15787d55dd4dffb6e355b1d5001d30eb334a7067b8616d5595b23724"
+hash = "d636bf0f8f057615a3761e3e9d2805eedf5ab987b9f7ecf787d1d0dc7165e04b"
 
 [[files]]
 file = "logs/.gitkeep"
