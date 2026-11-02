@@ -1,0 +1,13 @@
+name = "Datapack Injector"
+filename = "datapack-injector-fabric-1.0.0+1.21.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9nFfpUyI/versions/B2QFDF7r/datapack-injector-fabric-1.0.0%2B1.21.10.jar"
+hash-format = "sha512"
+hash = "3d815e762d5bea514462153fca6ccadf3b97962c66cf0a4cb97907c4dd955704674344ab1f95ad5d1040c3c227967c90081ab1f46f7553214c3da33191864320"
+
+[update]
+[update.modrinth]
+mod-id = "9nFfpUyI"
+version = "B2QFDF7r"

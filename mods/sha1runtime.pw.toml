@@ -1,0 +1,13 @@
+name = "Runtime Hash Updater"
+filename = "SHA1Runtime-1.21.10-1.4.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/YoRtMPzM/versions/ze2xyOSp/SHA1Runtime-1.21.10-1.4.1.jar"
+hash-format = "sha512"
+hash = "bd71c9bdfe7bd03d23e84127715c3c8b8c05514d186ab6575b08bf5b39bdc37dd3d67f112b1b0b39ba654f9500e1c91658fe5b4bda8c021f3ac840686285602e"
+
+[update]
+[update.modrinth]
+mod-id = "YoRtMPzM"
+version = "ze2xyOSp"
