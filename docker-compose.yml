@@ -34,3 +34,25 @@ services:
     cpus: 1.75
     stop_grace_period: 60s
     restart: unless-stopped
+
+  backups:
+    image: itzg/mc-backup
+    container_name: world-backup
+    depends_on:
+      minecraft:
+        condition: service_healthy
+    environment:
+      BACKUP_INTERVAL: "1h"
+      INITIAL_DELAY: "5m"
+      RCON_HOST: minecraft
+      RCON_PASSWORD: ${RCON_PASSWORD}
+      PRUNE_BACKUPS_COUNT: "3"
+      PAUSE_IF_NO_PLAYERS: "true"
+      TAR_COMPRESS_METHOD: "zstd"
+      TZ: "America/Sao_Paulo"
+    volumes:
+      - ./data:/data:ro
+      - ./backups:/backups
+    mem_limit: 512m
+    cpus: 0.5
+    restart: unless-stopped
