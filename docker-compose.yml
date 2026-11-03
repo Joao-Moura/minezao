@@ -17,12 +17,12 @@ services:
       # OPS: "SeuNick"
       ENABLE_RCON: "TRUE"
       RCON_PASSWORD: ${RCON_PASSWORD}
+
+      # Configurações
+      DIFFICULTY: "hard"
+      MOTD: "\u00a7l  \u00a7r                         \u00a75\u00a7o\u00a7l\u4f3a\u670d\u5668\u5149\u74b0\u00a7r\n\u00a7b               De \u00a72\u00a7lXi Jinping\u00a7b para o mundo"
     volumes:
       - ./data:/data
-      - ./config:/config
-      - ./world:/world
-      - ./logs:/logs
-      - ./mods:/mods:ro
       - ./dist:/modpacks:ro
     ports:
       - "25565:25565"         # jogo (TCP)
