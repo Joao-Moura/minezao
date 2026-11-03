@@ -1,0 +1,8 @@
+docker-compose.yml
+scripts/
+data/
+backups/
+dist/
+*.mrpack
+.env
+README.md

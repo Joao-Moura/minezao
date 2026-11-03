@@ -1,4 +1,3 @@
-world/*
-logs/*
 backups/*
+data/*
 .env

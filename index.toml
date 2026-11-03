@@ -1,240 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "backups/.gitkeep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "datapacks/afk display v1.1.14/data/afk_display/function/check_afk.mcfunction"
-hash = "98951f8730cd6883cde6e729395abc01e4711843dfeccd1828c635dc20f12900"
-
-[[files]]
-file = "datapacks/afk display v1.1.14/data/afk_display/function/load.mcfunction"
-hash = "6355fd7d8024a041e762ce5ad733bc6cea2e5f5ad8e5de98f045e967cde1a624"
-
-[[files]]
-file = "datapacks/afk display v1.1.14/data/afk_display/function/remove_afk.mcfunction"
-hash = "f39262bd019a141a3347bce84357c42a8d478ef278941422666d5ba4063505bb"
-
-[[files]]
-file = "datapacks/afk display v1.1.14/data/afk_display/function/second.mcfunction"
-hash = "80d6629345be68d593cc893c13d486c1196c4f5f5933fea363885cb671f24194"
-
-[[files]]
-file = "datapacks/afk display v1.1.14/data/afk_display/function/uninstall.mcfunction"
-hash = "0f6195a6d2ec3dc0ffc3df8c4ca4d074c7aeefdd6791294faeada117f1516780"
-
-[[files]]
-file = "datapacks/afk display v1.1.14/data/minecraft/tags/function/load.json"
-hash = "5369ee6d8ed73045e4eab2e4ce4ef1691724ba322157860b1a817a6eb961f52a"
-
-[[files]]
-file = "datapacks/afk display v1.1.14/data/vanillatweaks/advancement/afk_display.json"
-hash = "b90f169a9354976b42ddd5fec3ec014dd4b67935210db0d0d1685ce0acca961d"
-
-[[files]]
-file = "datapacks/afk display v1.1.14/data/vanillatweaks/advancement/root.json"
-hash = "122f9af1c2e138b97e254a2f02baf650dc3c0b718f6a476bff65cd43503b2323"
-
-[[files]]
-file = "datapacks/afk display v1.1.14/data/vanillatweaks/tags/function/uninstall.json"
-hash = "6d94625d23621463753cd67b91a571fb04305e23ff3f3ad86a43a458b0eeeb21"
-
-[[files]]
-file = "datapacks/afk display v1.1.14/overlay_71/data/vanillatweaks/advancement/root.json"
-hash = "932453fa70ac5369f7fc0435fec16809ca0558378c684670909aa128531b0de9"
-
-[[files]]
 file = "datapacks/afk display v1.1.14/pack.mcmeta"
 hash = "4eadeb80eddbac8f924c0c21b51c67055f83118e0163f386dc0686d74ce13f6a"
 
 [[files]]
 file = "datapacks/afk display v1.1.14/pack.png"
 hash = "2edfea3a56ef637eb20ab2c24aeedb3fe8c757ff7c4df0f0cb2f48b2b6463400"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/minecraft/tags/function/load.json"
-hash = "13c2008e94fb5806cf0500fc954842d1c53963df4da5587a12d3ace36460e8ca"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/advancement/slept_in_bed.json"
-hash = "875c4d95efb88aee80ef58256b4459207a0a56271926a837a7a778412a75b804"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/announce_asleep.mcfunction"
-hash = "33ac2b093868ef6d71a483779788e757bd29f8b011535dadc493a2130ac0acfe"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/check_sleeping.mcfunction"
-hash = "bab53d4750c0a49fe4f5d3155fa5d60e49772d84fbd56714880daac158abd488"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/clear_weather.mcfunction"
-hash = "2ea9a8df3db97d7271be3332e623df76e195ddf86e5638b8abd1cad7b060afc3"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/config.mcfunction"
-hash = "bf830c980bb3c19bb8171723a3ac1942190fc8214b9f4128c5763255663f72a3"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/config/disable_always_clear.mcfunction"
-hash = "121777fdde4ebd2698dd43946762d68ccd309e33b154064a1714b040933aa51a"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/config/disable_immediate_chat.mcfunction"
-hash = "2a948258299df7953056aa1da349e4f295d90f09974ace2438bbe338358a7507"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/config/enable_always_clear.mcfunction"
-hash = "78ddfbf18eb8a1ea1ab6c838519acec2f6722881acef44f410c0c47666787432"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/config/enable_default_display_action_bar.mcfunction"
-hash = "71a46ebae24f646f4197fb3c254280a48e6985434f220c30ae1312b933d38086"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/config/enable_default_display_boss_bar.mcfunction"
-hash = "29bc7419a7d2ab5842a91ff7166351edee88542be7d1aa64be9c0a87b98ce28d"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/config/enable_default_display_chat.mcfunction"
-hash = "e423ce6f20ce50887ee5bda54f94fbf916dca18a7ba89f58f882bb3b1bb3ee72"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/config/enable_default_display_hidden.mcfunction"
-hash = "3cdfa9d790e6d0903cbdd4c2677ef3c7f03ab335ce86e3cdd6b9a3620fb72405"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/config/enable_immediate_chat.mcfunction"
-hash = "8af9e28b92720fa613413138262e20635e96d5a7fb53b9d1d44a3760c694e6b5"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/enable_trigger.mcfunction"
-hash = "8c371217fd590d0f259b45ade501e2a0307d9dd39420aa3b16cc422c245624d2"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/hide_command_feedback.mcfunction"
-hash = "e290e5d8caa203d77ff5354558e99175ac56b8c16476dfc1af1ea19d7a2c7afd"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/load.mcfunction"
-hash = "d4ccd78cc19862e97b81382a021a894dd870b42287d61c7cb2fee0899b2afc7b"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/reset_progress.mcfunction"
-hash = "77101b7163a78bb283c507e24559e01413ce196d4007f4199fe4074e92ac5f92"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/restore_command_feedback.mcfunction"
-hash = "900a876633ee1bc19621dac1d8b5532eb0d19e4c23633920e12bf9c821e4928f"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/sleeping.mcfunction"
-hash = "aa65428c51ffa409153204da4162dc46858abf6c2ad4ad37e33476bce4bf4e2c"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/start_sleeping.mcfunction"
-hash = "de3b48f6348cbeda94183f6ad4fd6926fcc67dea9ebe2b1d0443c78afe515b24"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/sufficient_sleeping.mcfunction"
-hash = "c60abfd80d51909e0210d30b23a407831c9b086d2a18091b82c54133d034c0db"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/tick.mcfunction"
-hash = "b5ba418ddaf3356c7496eba14aca89760d639762cfb07231824782ff8f51a33f"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/trigger.mcfunction"
-hash = "cb4ee7827ace6a6b9cdb8e2ecacf762d94f18d91b36217c303130fad891c377c"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/trigger/config.mcfunction"
-hash = "7cace8e4421ff46f9b62dd67589ebf46a668b30c3d1a743657d18eff988ceb84"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/trigger/index.mcfunction"
-hash = "a90fef49953881b1fac6b3a919db4ced834fe12d6e9ae27d373378824341a284"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/trigger/list_sleeping_players.mcfunction"
-hash = "b96186e6f256028d507041329ea9ac5e690a3b4f88b513c9ae2c9a78e978402b"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/trigger/preview_display_boss_bar.mcfunction"
-hash = "5591efb59d66ee78a8d05f865b3b6d4b0e173a01d6d80941ddc1a071d6c9cf01"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/trigger/show_disabled_display_default.mcfunction"
-hash = "7e8f2086434055ec2dcf2adb877e13f9f664e3723748f7d9c74278df61906e2c"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/trigger/show_enabled_display_default.mcfunction"
-hash = "c10efe82fda97269d275498cf5f74cff425e1bdb74faff4f4cf1de256f35b793"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/trigger/undo_preview_display_boss_bar.mcfunction"
-hash = "f4c1c4f883a2dc7a6483317ae68e00d0b9bd54690768b1ef8614ec6a1bdba3ef"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/trigger/use_config.mcfunction"
-hash = "3f776e07a1677021ded5de5e486bb5e5042a6eb16736c6fc30b7c0050f1d64a2"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/try_to_announce_asleep.mcfunction"
-hash = "1f8212f3c3897f369e1733d4974c85b7bf8e5c02ae728da5049a841c27a184a8"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/try_to_announce_asleep_immediately.mcfunction"
-hash = "bf8c9a171de58c677c4b698efab06b4a4340c00ef3f6d7e31dc9500f3fb13392"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/uninstall.mcfunction"
-hash = "ee4ea8e9057ca9e356454bf8d8e70f8132340dbcd57037f8132972470035f840"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/predicate/overworld.json"
-hash = "d6ba52d8e9dc5f4dd06d2e3e9e14b1469b32b626effb58c1bc036c3f61606591"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/vanillatweaks/advancement/multiplayer_sleep.json"
-hash = "7ecbefe505a9ccff536345fcdaa7e7e678338cbbd2ff26b3ccae6c98e098cf02"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/vanillatweaks/advancement/root.json"
-hash = "122f9af1c2e138b97e254a2f02baf650dc3c0b718f6a476bff65cd43503b2323"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/data/vanillatweaks/tags/function/uninstall.json"
-hash = "c4ad1f43bd8701172070838d97831610fee1545dea352d9f463009aad843a560"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/overlay_71/data/multiplayer_sleep/function/check_sleeping.mcfunction"
-hash = "b4f8043c35b6054556b1df53625f43045957f2e32eccc92b5d4339528c148d52"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/overlay_71/data/multiplayer_sleep/function/config.mcfunction"
-hash = "5ef85fa60724874458bf88747e4b90849a48258f092d16c1120b3a43392c7d36"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/overlay_71/data/multiplayer_sleep/function/trigger/config.mcfunction"
-hash = "a849498faeb8963650356f9c6ae549d95c39daaa77ff612811dcb120330ec6bd"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/overlay_71/data/multiplayer_sleep/function/trigger/index.mcfunction"
-hash = "e4072a22ddaf2c5ae16c78436c81f5d4cd148ac626474c12f1b28c0a7d42fd0a"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/overlay_71/data/multiplayer_sleep/function/trigger/list_sleeping_players.mcfunction"
-hash = "3b93086d2f3a3fb6fa03d4e496237216d36e6c07265fc0a507427f427c5d0606"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/overlay_71/data/multiplayer_sleep/function/trigger/show_disabled_display_default.mcfunction"
-hash = "d15d2af0f745b54c0a1d5750a247f57962d668c45eea979fbc6e8cfbc879adad"
-
-[[files]]
-file = "datapacks/multiplayer sleep v2.6.14/overlay_71/data/vanillatweaks/advancement/root.json"
-hash = "932453fa70ac5369f7fc0435fec16809ca0558378c684670909aa128531b0de9"
 
 [[files]]
 file = "datapacks/multiplayer sleep v2.6.14/pack.mcmeta"
@@ -245,40 +17,12 @@ file = "datapacks/multiplayer sleep v2.6.14/pack.png"
 hash = "262c191f193dbf0e2b07152946c7b8f4ed7e0727242f673c8b868c7bfb02b25c"
 
 [[files]]
-file = "datapacks/track raw statistics v1.7.10/data/minecraft/tags/function/load.json"
-hash = "e5a78b7a94c1bf43321a817c273c8b782471fbbf4b6b22d8898b09045f289385"
-
-[[files]]
-file = "datapacks/track raw statistics v1.7.10/data/track_raw_stats/function/load.mcfunction"
-hash = "a9fb7a914e8b1b04d1d1a306d399dd81b447e8c25b274b3476ab39381c27e4cb"
-
-[[files]]
-file = "datapacks/track raw statistics v1.7.10/data/vanillatweaks/advancement/root.json"
-hash = "122f9af1c2e138b97e254a2f02baf650dc3c0b718f6a476bff65cd43503b2323"
-
-[[files]]
-file = "datapacks/track raw statistics v1.7.10/data/vanillatweaks/advancement/track_raw_stats.json"
-hash = "2107374e8079469c99bdac7953519dc952fee8ef35ff5a262187ff940e3df0f2"
-
-[[files]]
-file = "datapacks/track raw statistics v1.7.10/overlay_71/data/vanillatweaks/advancement/root.json"
-hash = "932453fa70ac5369f7fc0435fec16809ca0558378c684670909aa128531b0de9"
-
-[[files]]
 file = "datapacks/track raw statistics v1.7.10/pack.mcmeta"
 hash = "3bc96d14db2bbea2f041d2c852c14274da4d45f9400b7db72aadcbf6f8a1e517"
 
 [[files]]
 file = "datapacks/track raw statistics v1.7.10/pack.png"
 hash = "3a58298ce6535db0207964eb57d6e3297ec7b29c400b965582a73550b334c057"
-
-[[files]]
-file = "docker-compose.yml"
-hash = "f4d4987714f6899ccab96c5e501c770c05922983d8d16923e8c2473eef975ace"
-
-[[files]]
-file = "logs/.gitkeep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
@@ -334,11 +78,3 @@ metafile = true
 file = "mods/spark.pw.toml"
 hash = "2520b331c2b0eb582b448c4ebf1a73d66d42184acc2d74912baef4140e05ee9b"
 metafile = true
-
-[[files]]
-file = "scripts/gera-mrpack.sh"
-hash = "1bee2fc69c9695ad664d4c3e1fa659c8a291e6abe4254f9545cab0b384d5e018"
-
-[[files]]
-file = "world/.gitkeep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

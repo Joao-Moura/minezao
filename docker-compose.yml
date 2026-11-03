@@ -4,9 +4,8 @@ services:
     container_name: minecraft
     environment:
       EULA: "TRUE"
-      TYPE: "FABRIC"
-      VERSION: "1.21.10"
-      MODRINTH_MODPACK: "minezao.mrpack"
+      TYPE: "MODRINTH"
+      MODRINTH_MODPACK: "/modpacks/minezao.mrpack"
       MEMORY: "5G"
       USE_AIKAR_FLAGS: "true"
       TZ: "America/Sao_Paulo"
@@ -18,15 +17,13 @@ services:
       # OPS: "SeuNick"
       ENABLE_RCON: "TRUE"
       RCON_PASSWORD: ${RCON_PASSWORD}
-
-      REMOVE_OLD_MODS: "TRUE"
     volumes:
       - ./data:/data
       - ./config:/config
       - ./world:/world
       - ./logs:/logs
       - ./mods:/mods:ro
-      - ./datapacks:/datapacks:ro
+      - ./dist:/modpacks:ro
     ports:
       - "25565:25565"         # jogo (TCP)
       - "24454:24454/udp"     # Simple Voice Chat

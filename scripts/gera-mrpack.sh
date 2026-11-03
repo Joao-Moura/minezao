@@ -1,4 +1,5 @@
 #!/bin/sh
-
+set -eu
 packwiz refresh
-packwiz modrinth export -o minezao.mrpack
+mkdir -p dist
+packwiz modrinth export -o dist/minezao.mrpack
