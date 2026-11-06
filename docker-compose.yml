@@ -19,7 +19,7 @@ services:
 
       # Packs
       MODRINTH_MODPACK: "/dist/minezao.mrpack"
-      RESOURCE_PACK: "/dist/textura-jombastica.zip"
+      RESOURCE_PACK: "https://raw.githubusercontent.com/Joao-Moura/minezao/main/dist/textura-jombastica.zip"
       RESOURCE_PACK_SHA1: "c6b0c8e55534da18778234d02463e8870b1aa348"
       RESOURCE_PACK_ENFORCE: "TRUE"
 
