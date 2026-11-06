@@ -1,6 +1,46 @@
 hash-format = "sha256"
 
 [[files]]
+file = "datapacks/afk display v1.1.14/data/afk_display/function/check_afk.mcfunction"
+hash = "98951f8730cd6883cde6e729395abc01e4711843dfeccd1828c635dc20f12900"
+
+[[files]]
+file = "datapacks/afk display v1.1.14/data/afk_display/function/load.mcfunction"
+hash = "6355fd7d8024a041e762ce5ad733bc6cea2e5f5ad8e5de98f045e967cde1a624"
+
+[[files]]
+file = "datapacks/afk display v1.1.14/data/afk_display/function/remove_afk.mcfunction"
+hash = "f39262bd019a141a3347bce84357c42a8d478ef278941422666d5ba4063505bb"
+
+[[files]]
+file = "datapacks/afk display v1.1.14/data/afk_display/function/second.mcfunction"
+hash = "80d6629345be68d593cc893c13d486c1196c4f5f5933fea363885cb671f24194"
+
+[[files]]
+file = "datapacks/afk display v1.1.14/data/afk_display/function/uninstall.mcfunction"
+hash = "0f6195a6d2ec3dc0ffc3df8c4ca4d074c7aeefdd6791294faeada117f1516780"
+
+[[files]]
+file = "datapacks/afk display v1.1.14/data/minecraft/tags/function/load.json"
+hash = "5369ee6d8ed73045e4eab2e4ce4ef1691724ba322157860b1a817a6eb961f52a"
+
+[[files]]
+file = "datapacks/afk display v1.1.14/data/vanillatweaks/advancement/afk_display.json"
+hash = "b90f169a9354976b42ddd5fec3ec014dd4b67935210db0d0d1685ce0acca961d"
+
+[[files]]
+file = "datapacks/afk display v1.1.14/data/vanillatweaks/advancement/root.json"
+hash = "122f9af1c2e138b97e254a2f02baf650dc3c0b718f6a476bff65cd43503b2323"
+
+[[files]]
+file = "datapacks/afk display v1.1.14/data/vanillatweaks/tags/function/uninstall.json"
+hash = "6d94625d23621463753cd67b91a571fb04305e23ff3f3ad86a43a458b0eeeb21"
+
+[[files]]
+file = "datapacks/afk display v1.1.14/overlay_71/data/vanillatweaks/advancement/root.json"
+hash = "932453fa70ac5369f7fc0435fec16809ca0558378c684670909aa128531b0de9"
+
+[[files]]
 file = "datapacks/afk display v1.1.14/pack.mcmeta"
 hash = "4eadeb80eddbac8f924c0c21b51c67055f83118e0163f386dc0686d74ce13f6a"
 
@@ -9,8 +49,204 @@ file = "datapacks/afk display v1.1.14/pack.png"
 hash = "2edfea3a56ef637eb20ab2c24aeedb3fe8c757ff7c4df0f0cb2f48b2b6463400"
 
 [[files]]
+file = "datapacks/datapack-jombastico/data/jombas-texturas/painting_variant/gabrielcareca.json"
+hash = "0287ae4083ca93e583960f33e9fdc34f736599f2b2d345ff786240b2c032986a"
+
+[[files]]
+file = "datapacks/datapack-jombastico/data/jombas-texturas/recipe/gabrielcareca.json"
+hash = "8a33319396dad903aaef6a3d17e900f6fd4b06dc42ee2c15d38f97a49da86855"
+
+[[files]]
+file = "datapacks/datapack-jombastico/data/minecraft/tags/painting_variant/placeable.json"
+hash = "87f2137ced4beed7452c14feec8682bc1c08f1ac7a07c868e6f06483ff6a997b"
+
+[[files]]
 file = "datapacks/datapack-jombastico/pack.mcmeta"
-hash = "23339f9e0c834c6b4a68cffd027717987a6ef80b3d907b808725339c6e293090"
+hash = "85ceaddc87e1437cf753a3a768a88df3ed9cd20d9c5099b067d06a01c6cab992"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/minecraft/tags/function/load.json"
+hash = "13c2008e94fb5806cf0500fc954842d1c53963df4da5587a12d3ace36460e8ca"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/advancement/slept_in_bed.json"
+hash = "875c4d95efb88aee80ef58256b4459207a0a56271926a837a7a778412a75b804"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/announce_asleep.mcfunction"
+hash = "33ac2b093868ef6d71a483779788e757bd29f8b011535dadc493a2130ac0acfe"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/check_sleeping.mcfunction"
+hash = "bab53d4750c0a49fe4f5d3155fa5d60e49772d84fbd56714880daac158abd488"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/clear_weather.mcfunction"
+hash = "2ea9a8df3db97d7271be3332e623df76e195ddf86e5638b8abd1cad7b060afc3"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/config.mcfunction"
+hash = "bf830c980bb3c19bb8171723a3ac1942190fc8214b9f4128c5763255663f72a3"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/config/disable_always_clear.mcfunction"
+hash = "121777fdde4ebd2698dd43946762d68ccd309e33b154064a1714b040933aa51a"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/config/disable_immediate_chat.mcfunction"
+hash = "2a948258299df7953056aa1da349e4f295d90f09974ace2438bbe338358a7507"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/config/enable_always_clear.mcfunction"
+hash = "78ddfbf18eb8a1ea1ab6c838519acec2f6722881acef44f410c0c47666787432"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/config/enable_default_display_action_bar.mcfunction"
+hash = "71a46ebae24f646f4197fb3c254280a48e6985434f220c30ae1312b933d38086"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/config/enable_default_display_boss_bar.mcfunction"
+hash = "29bc7419a7d2ab5842a91ff7166351edee88542be7d1aa64be9c0a87b98ce28d"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/config/enable_default_display_chat.mcfunction"
+hash = "e423ce6f20ce50887ee5bda54f94fbf916dca18a7ba89f58f882bb3b1bb3ee72"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/config/enable_default_display_hidden.mcfunction"
+hash = "3cdfa9d790e6d0903cbdd4c2677ef3c7f03ab335ce86e3cdd6b9a3620fb72405"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/config/enable_immediate_chat.mcfunction"
+hash = "8af9e28b92720fa613413138262e20635e96d5a7fb53b9d1d44a3760c694e6b5"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/enable_trigger.mcfunction"
+hash = "8c371217fd590d0f259b45ade501e2a0307d9dd39420aa3b16cc422c245624d2"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/hide_command_feedback.mcfunction"
+hash = "e290e5d8caa203d77ff5354558e99175ac56b8c16476dfc1af1ea19d7a2c7afd"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/load.mcfunction"
+hash = "d4ccd78cc19862e97b81382a021a894dd870b42287d61c7cb2fee0899b2afc7b"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/reset_progress.mcfunction"
+hash = "77101b7163a78bb283c507e24559e01413ce196d4007f4199fe4074e92ac5f92"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/restore_command_feedback.mcfunction"
+hash = "900a876633ee1bc19621dac1d8b5532eb0d19e4c23633920e12bf9c821e4928f"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/sleeping.mcfunction"
+hash = "aa65428c51ffa409153204da4162dc46858abf6c2ad4ad37e33476bce4bf4e2c"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/start_sleeping.mcfunction"
+hash = "de3b48f6348cbeda94183f6ad4fd6926fcc67dea9ebe2b1d0443c78afe515b24"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/sufficient_sleeping.mcfunction"
+hash = "c60abfd80d51909e0210d30b23a407831c9b086d2a18091b82c54133d034c0db"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/tick.mcfunction"
+hash = "b5ba418ddaf3356c7496eba14aca89760d639762cfb07231824782ff8f51a33f"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/trigger.mcfunction"
+hash = "cb4ee7827ace6a6b9cdb8e2ecacf762d94f18d91b36217c303130fad891c377c"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/trigger/config.mcfunction"
+hash = "7cace8e4421ff46f9b62dd67589ebf46a668b30c3d1a743657d18eff988ceb84"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/trigger/index.mcfunction"
+hash = "a90fef49953881b1fac6b3a919db4ced834fe12d6e9ae27d373378824341a284"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/trigger/list_sleeping_players.mcfunction"
+hash = "b96186e6f256028d507041329ea9ac5e690a3b4f88b513c9ae2c9a78e978402b"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/trigger/preview_display_boss_bar.mcfunction"
+hash = "5591efb59d66ee78a8d05f865b3b6d4b0e173a01d6d80941ddc1a071d6c9cf01"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/trigger/show_disabled_display_default.mcfunction"
+hash = "7e8f2086434055ec2dcf2adb877e13f9f664e3723748f7d9c74278df61906e2c"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/trigger/show_enabled_display_default.mcfunction"
+hash = "c10efe82fda97269d275498cf5f74cff425e1bdb74faff4f4cf1de256f35b793"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/trigger/undo_preview_display_boss_bar.mcfunction"
+hash = "f4c1c4f883a2dc7a6483317ae68e00d0b9bd54690768b1ef8614ec6a1bdba3ef"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/trigger/use_config.mcfunction"
+hash = "3f776e07a1677021ded5de5e486bb5e5042a6eb16736c6fc30b7c0050f1d64a2"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/try_to_announce_asleep.mcfunction"
+hash = "1f8212f3c3897f369e1733d4974c85b7bf8e5c02ae728da5049a841c27a184a8"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/try_to_announce_asleep_immediately.mcfunction"
+hash = "bf8c9a171de58c677c4b698efab06b4a4340c00ef3f6d7e31dc9500f3fb13392"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/function/uninstall.mcfunction"
+hash = "ee4ea8e9057ca9e356454bf8d8e70f8132340dbcd57037f8132972470035f840"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/multiplayer_sleep/predicate/overworld.json"
+hash = "d6ba52d8e9dc5f4dd06d2e3e9e14b1469b32b626effb58c1bc036c3f61606591"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/vanillatweaks/advancement/multiplayer_sleep.json"
+hash = "7ecbefe505a9ccff536345fcdaa7e7e678338cbbd2ff26b3ccae6c98e098cf02"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/vanillatweaks/advancement/root.json"
+hash = "122f9af1c2e138b97e254a2f02baf650dc3c0b718f6a476bff65cd43503b2323"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/data/vanillatweaks/tags/function/uninstall.json"
+hash = "c4ad1f43bd8701172070838d97831610fee1545dea352d9f463009aad843a560"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/overlay_71/data/multiplayer_sleep/function/check_sleeping.mcfunction"
+hash = "b4f8043c35b6054556b1df53625f43045957f2e32eccc92b5d4339528c148d52"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/overlay_71/data/multiplayer_sleep/function/config.mcfunction"
+hash = "5ef85fa60724874458bf88747e4b90849a48258f092d16c1120b3a43392c7d36"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/overlay_71/data/multiplayer_sleep/function/trigger/config.mcfunction"
+hash = "a849498faeb8963650356f9c6ae549d95c39daaa77ff612811dcb120330ec6bd"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/overlay_71/data/multiplayer_sleep/function/trigger/index.mcfunction"
+hash = "e4072a22ddaf2c5ae16c78436c81f5d4cd148ac626474c12f1b28c0a7d42fd0a"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/overlay_71/data/multiplayer_sleep/function/trigger/list_sleeping_players.mcfunction"
+hash = "3b93086d2f3a3fb6fa03d4e496237216d36e6c07265fc0a507427f427c5d0606"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/overlay_71/data/multiplayer_sleep/function/trigger/show_disabled_display_default.mcfunction"
+hash = "d15d2af0f745b54c0a1d5750a247f57962d668c45eea979fbc6e8cfbc879adad"
+
+[[files]]
+file = "datapacks/multiplayer sleep v2.6.14/overlay_71/data/vanillatweaks/advancement/root.json"
+hash = "932453fa70ac5369f7fc0435fec16809ca0558378c684670909aa128531b0de9"
 
 [[files]]
 file = "datapacks/multiplayer sleep v2.6.14/pack.mcmeta"
@@ -21,12 +257,620 @@ file = "datapacks/multiplayer sleep v2.6.14/pack.png"
 hash = "262c191f193dbf0e2b07152946c7b8f4ed7e0727242f673c8b868c7bfb02b25c"
 
 [[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/advancement/recipes/paintings.json"
+hash = "7dd2b1075a9b3110dd5411db12505e5711373838854d5fadf5cb011c9c31e418"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/advancement/recipes/root.json"
+hash = "eb5e0b1e8939018734a78216f7e35b583c5ee4963d47a5f6d0e4c19507f98841"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting.json"
+hash = "a9e0415fe450d2008daa7c6e7ff8580390f4494dc9cc8f3ae3e755c8bd8dc6cb"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/alban.json"
+hash = "da4ce7232857cb39426ea3ebac2914dbe23ba3e2f1de4924ed5967db6d7283fc"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/aztec.json"
+hash = "5d42044beec4fdb59d265ae30fd405d9218e2ccf7a3f86cd2e22535b03ea986a"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/aztec2.json"
+hash = "e6d876b2e137dd21c261540aef547e01c543d2995dd2bb593cc98fda0b3ff3b4"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/backyard.json"
+hash = "7878a97cf0457d9807b464c08db158b157dc92a59727e8fea5142a7d03cd961e"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/baroque.json"
+hash = "2e30ec08a513652e114d4b4b4db81741cb3b2923e38c1f5ca72ab5782ce238f3"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/bomb.json"
+hash = "19b507a88f316178aff7c4f2cab275a6acfd1cf2dc25a248378287e9b02ae947"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/bouquet.json"
+hash = "3c8342eebf2b32fdec6546a463aeffe75aab1d4b60c0f2c7b92b81bbe6b8c8b0"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/burning_skull.json"
+hash = "8214673c0fff2f33bb6cd443de4021b0e866fa7be296fe97a79baa923d46a977"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/bust.json"
+hash = "6043317f46f71e09b3e3895afa6e2734be9976d3dae11aafb53fd41101287d2d"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/cavebird.json"
+hash = "a796a3cb5b06c0e6532e31a96692515a5906281ce4d8afd8adf93891f1cee37d"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/changing.json"
+hash = "303604102522bdd36b080756335f42db9f81cdf732deec931598de28157ad9b4"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/cotan.json"
+hash = "d85557ed782fba470cc699aa8ff94d61525a9f5b65f69c9731a26bf3be81b0e0"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/courbet.json"
+hash = "5de648d215b977d7e01432a7e25167c44a58d2361024b846149398d64a16ed3f"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/creebet.json"
+hash = "0d467f0fcc45a2d9a76f907cbb81a28870c9aed11af54923e24003d5abf4387e"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/donkey_kong.json"
+hash = "7243f7c78ed5c631408f34a0a36df5c64fe1288c4161fd4d55c8fe0f600e0838"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/endboss.json"
+hash = "54b98bf495879cf0ae5ef021063e3ddaa5e527c390939542be23280d42d68fe7"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/fern.json"
+hash = "b06fdd82735370c03fd34c88435a098640333cfeea5a6982ca9c2696fd2606d2"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/fighters.json"
+hash = "994620b0ee7594772b8553f3bcdc9e47d5ab20733bef7c5a763ed707ca342bb6"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/finding.json"
+hash = "6246c4148126190e5eaf37f735ea4f6941eba724fd4596f8c5f22c6e2b9a566d"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/graham.json"
+hash = "ff2aabc70d1e83de3a44681dd35e4d89105d8189e4858a3556439afc56e0e6bb"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/humble.json"
+hash = "b0bdb68210ab623c8754d488902f01cab8b15511edaaa1228bca214219b6d5bb"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/kebab.json"
+hash = "c67ea6de07500406a229231267b0a3c306d49e4a22cd43729416f5f3d0bc41ad"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/lowmist.json"
+hash = "7c784d460f88855a354ba44dc0cda88e13bd9b5154364fc67c8ef7a44a6196fd"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/match.json"
+hash = "5e45b7ab255d43762d681ade047be1e9b1775f31791dabf65f8bb987aef1a030"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/meditative.json"
+hash = "76a3913db69b458ec4b37835872ee735551a54813de72901b697cce078b0cbfa"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/orb.json"
+hash = "625126201a474d4c3c08388dcfcbdfc5dffa313e66818e0e851a582422a7c60b"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/owlemons.json"
+hash = "228ba9acdf9a82b27f69af4bee42cb50ed69344758dbe71eac5951b43fdbe2a6"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/passage.json"
+hash = "6373488c8f5dadb094d1d74617c8192dd64a865b9943af40db6fa04f6cda37de"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/pigscene.json"
+hash = "b31d9a8244c6593551495b6dba9cee3e1371484717d284796a939c8d19e6beeb"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/plant.json"
+hash = "901e334893638277157b35f41f6e8f223341ee88a212b53f50f15f23bb039ea1"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/pointer.json"
+hash = "1b5e7abecdcebf9afd3f8e54bdea3e750915f27b36dcdf868234d4a0b79f31bf"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/pond.json"
+hash = "204fcfd22c299baaa7304cbd0353ad7cd74fd6de72919b0facf6334688096b3d"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/pool.json"
+hash = "b76b33502be7d66425ae49d618280e0581d4f6d45a84268cdabe984f0eeb2aca"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/prairie_ride.json"
+hash = "94a3f2b2a916cfccf44e5de390a37767cc8c09c4b729c739d1b41e9525de0079"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/sea.json"
+hash = "add83ae4a34dfa250514fbdd99a6b271cd2fdee4c4c43a1574e8ae41fcfc5b10"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/skeleton.json"
+hash = "0727c704ffb298c1785abac594a39188cbe7862b6bc97fbc8d336988c7de18cd"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/skull_and_roses.json"
+hash = "720633ddba0bd241a286e7555df4c2f7a957a8bd33ed23458af30d90f33b2096"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/stage.json"
+hash = "488b8d2bbcc4f2eb63a01047feee30437f539552c55358e1f0c769184f15bdd5"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/sunflowers.json"
+hash = "b9b38e4558fb5bdd69443df7cae66f313b0f5f9e8e55f43883fe306a328cdb7d"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/sunset.json"
+hash = "210bb38304c1c3449778ccfa67bb12f711463818d2bc6dda4d5707518c98a517"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/tides.json"
+hash = "68647c51ccb490b2d3122a92dad032ca6414f2e93875b014b9148d605cfeb369"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/unpacked.json"
+hash = "131e9ec67bba004eb8662013a9bfacf770bee3db42f4e8b7d00aa6472316c8fb"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/void.json"
+hash = "ab4ebc33e1be10867aa936412bb26639c88d1fdd72fe00fc5e595696f04df2d4"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/wanderer.json"
+hash = "cdd476be1895116ee6aa136575dc8b8c5e792beb37565688cb583f3cb263580f"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/wasteland.json"
+hash = "59d9aadc4d9c4b414e29413d7e6bb6ae0481f1ee9ba553ddc57f6870708712eb"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/painting_picker/recipe/painting_variant/wither.json"
+hash = "525404244ce816c42c39551feec8633053ef52215eacaf4474d8b8c07d0e5e21"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/vanillatweaks/advancement/painting_picker.json"
+hash = "d19cdb54deb2a6d7ea3d7bd83f9ed755ae4081533c7fcf4da50761b24ac063e3"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/data/vanillatweaks/advancement/root.json"
+hash = "122f9af1c2e138b97e254a2f02baf650dc3c0b718f6a476bff65cd43503b2323"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting.json"
+hash = "b46afd0bcf2e4cac6e0aa9bf6555bc9faa0e56540b4d8b74b2c704af2e524b3b"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/alban.json"
+hash = "5a9c713f10c21aa67d7fea773793961b37c697b05636d42ad3586f0777c911af"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/aztec.json"
+hash = "4b952238f56db177559672bfc5c9c34daf7f7a8a8cc7d5f243d94b6a55415197"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/aztec2.json"
+hash = "45acbcd0e73c8552bd7b4f874820a90eaf14b21594d7d783d4f1b9bf403492a6"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/backyard.json"
+hash = "1e7fef7cddb984644f9397ec9326fb33c75a46bfd3cbc4c717172d309aa3b477"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/baroque.json"
+hash = "6d8608b955a7220cb5a3a38d3a29d7b4b0b288f60fd23e34f79b630a11733c54"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/bomb.json"
+hash = "c7db0e622c0d7d802e5f0a0484322a3838d8475c7e007f17bb9872a23353d81c"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/bouquet.json"
+hash = "521c405667ba9152e0feb8fac56ef7352d5c3ee4d952d99207d5a13d91443346"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/burning_skull.json"
+hash = "3f150761bd26289651558e9a3509ae85772e033f58f91a7258c7e2fdab0ce00c"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/bust.json"
+hash = "03a4ddfa90f3521081e6c5ee0b3873baff8946e7c7d98c5c17259170b62b9833"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/cavebird.json"
+hash = "4c24898424f13566926d681f0ff6f9feed6f409ee161c3f043138617dcd93412"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/changing.json"
+hash = "4aa6d411eb68602d47c99271effaff785678937ce0c84b80f8af78dd4b9b558b"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/cotan.json"
+hash = "61b99c1879ad1c8976e28294307cc3b4b4fb54a087ebc5248ee9f15efea7cc8b"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/courbet.json"
+hash = "1c4d148d10e71122bd55ef1bcb164276b88c0d60b1f03e03892000702b189190"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/creebet.json"
+hash = "7714902e31520d71562d10cd022122a64af36a1087435be82258537bc706da07"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/donkey_kong.json"
+hash = "9f74f5922424cea535d602927e6702b036081652ee10b2e3097c342b4937b6f2"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/endboss.json"
+hash = "40b8deecf42921cc4b690db49a008f68d9e47c4b93153ef722b566675fa4578d"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/fern.json"
+hash = "a8a4d9785352e4894986b51537547434c29a151d5961531b45569febadfa3b85"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/fighters.json"
+hash = "e63c9c33812d745a2362d182fa54b7cbe66557cad8975138c937fd516dac5436"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/finding.json"
+hash = "54b75478985d2bf5715b4e86cd06b381545eea61b2bdf50e939f7abeeb9b39e0"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/graham.json"
+hash = "7a035bc91c5eee55a0ca90605d8a020be149463f996e789f226169d0ce68e249"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/humble.json"
+hash = "a9e9e188854be52169d33e1f23e7ba2316c75619b63dbfcdbf8f294d8a71f203"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/kebab.json"
+hash = "1181a324d55a3a95638a2a7efac2f1dd558901c2ff8abf720d323f06597eab2d"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/lowmist.json"
+hash = "7dbde4de4f3930d5acfd74d96dd22ee11228f15a22c294068babd072a903f087"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/match.json"
+hash = "22518df72705b10775169dba0d6bbc7f475a9d286f4433e707d5dc4994d56738"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/meditative.json"
+hash = "9d5226f722bb60dbb74e3fe291c544c85bf890ddfc33bc97dde85ad0bd909f95"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/orb.json"
+hash = "d32a690c958167451a7673a493130e138be4b4b19f33f7459d6f894de8b169bc"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/owlemons.json"
+hash = "bbbd878d7a76696311f9cf046cca9edf98f627bc71b59dbd346be5c3d6da2820"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/passage.json"
+hash = "0944909a50a062a63ecd2c57450deb7eb289457270c59d92c11d6364248b3916"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/pigscene.json"
+hash = "88b80385cf7af2ddbad5e0258897739f8fc21d4112c0f4b4146b89c2effa06aa"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/plant.json"
+hash = "6b5b6b06ad33ef4491e873e3713304e86d16db247c6d23416599006253dcdc58"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/pointer.json"
+hash = "1d2c16d77f633b5f160e4d81e29b254ed7e35f6252a0bc9abd4e94bae95b2feb"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/pond.json"
+hash = "f0781db11fc8dcb637c973a8dd8b253fbf7b5e96fc60b6ee4cd192585198cf77"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/pool.json"
+hash = "1f2a2391512b9260590164b5e19d9049e08167df8c2de1e6acd3bff3ea2f835b"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/prairie_ride.json"
+hash = "4096eddb79a363df9a72f1d8178fd6b8e2deaa7f4f6ab0c64ac22f5b7c2af9ff"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/sea.json"
+hash = "772a8a90fedc94f90e91691ad285452e51631bbdbc0b3f13214db2b6930ce448"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/skeleton.json"
+hash = "52809abc3e5fa6f28d71f3769fb744103673909af714e33297b303b3a924b3e5"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/skull_and_roses.json"
+hash = "8e80168a9bdc7220691a648e4520f2d22fb2db3afee9082dcba90baa02143d10"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/stage.json"
+hash = "e4cd8c75b0b13717e4bb93c5895a252fb37caca6f0bfb39fa41fc0036133fca4"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/sunflowers.json"
+hash = "5d1277079c90ed5b5b936ec2151bbaf5f2641886df9b39e8084472867d0751e4"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/sunset.json"
+hash = "25befae791f63f83649a33a4c46446bbe6986713d978f2bfdc736d443397490a"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/tides.json"
+hash = "f8518e8c28732313365c00da3046153273f9fb212ba068ca71860b2b7b8ddcc0"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/unpacked.json"
+hash = "521b700b12ae1297e0baa3ac888e6f73cfd0918322d7dd8810a77f8ca758e92d"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/void.json"
+hash = "9d5d8de2ba3031dc2ac0b72cb989a8b6c6d59b126d5f1a53b68fb6ce5a7507fe"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/wanderer.json"
+hash = "105a0dc09e285b25a393292fec41a87f143dd62e19ca8af59331c401ad3d96a1"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/wasteland.json"
+hash = "9f4d2a065706e747585e91aafc8ea900a20c44f9dbce605d3a9f39fef832545a"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_57/data/painting_picker/recipe/painting_variant/wither.json"
+hash = "d8ff823f97fe66f2a12aed79b859eea6f1efbcb8483ca04635a39f65ac385849"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/alban.json"
+hash = "d627ba85553ac96be42f5ced1efb2048fcc4672667227d0e2dafa0ba1172bce0"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/aztec.json"
+hash = "687fdf34bc697443086f7470e98d1838585e5833370b3e8b0a514c316bfccd5b"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/aztec2.json"
+hash = "c50ebf56bdfe37b9a4a4c84446335a461c79a0d1251927baaab2997cc0f963dd"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/backyard.json"
+hash = "85143ba292cb9cce832fc9f5f1dbc594b875eee20fa0e4a304a7d9223c505b5e"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/baroque.json"
+hash = "a4f79a3df133df8434271a3260b81789d99628f21c0da6c69565bbc1bffd7d95"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/bomb.json"
+hash = "4380fae4326370d9fe20fc8a58511c70363984d44c99cb1d2b77f9660c5cc550"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/bouquet.json"
+hash = "3d69076164b22e20e10e01fdc9ee53fdde70fd6de78063905928b144fa58ddcf"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/burning_skull.json"
+hash = "29d185fc6c335c95b036aed08c92fbd50413d7e4f573ba2c0c508b1232d37f41"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/bust.json"
+hash = "1bcffb20963d7d8eebe1b3155ae0048dbe50c807c57f1ae4ca6a06b0ec94493b"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/cavebird.json"
+hash = "ef588324090e92e4b3f91ed6bb846a477df22463ff153e722fdc688ef7ff744a"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/changing.json"
+hash = "4993e9e2dbfbf1f1c57c4a44f22f8488ee656507710b4c6daf6316e9e5eb0879"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/cotan.json"
+hash = "fa3e53e325f4dda247a05a27a9d5a04bf58e4bff797060dff6992a30ecfabb30"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/courbet.json"
+hash = "52813763254cb0ffdfacfd9959b78548a70ac679f09d5b66f5717ee974d243f6"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/creebet.json"
+hash = "1db3f4cab6a0000ebd91de2dcef4b60195dca468e53ac087242d532f5ac60422"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/donkey_kong.json"
+hash = "e6a641047737635502f588fb3984698df66d9de5bdf4ac409a8bc0be232a1e61"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/endboss.json"
+hash = "c12de6a3a79054b2c70b4a3f6adb1a1b04f426f29def9613bf776951d2fc93d0"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/fern.json"
+hash = "58d5eb3a61aa67b5ae913afc273d54e35970bdde8788033977950d2d53cd18ce"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/fighters.json"
+hash = "9346c11bf1e638ec90cb4894f79ad62e86db8d184f61f1718f406595972c03c6"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/finding.json"
+hash = "21c7ec030526edc8366d006328b9492026c456560fbdb6b91970e8b84fae93e1"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/graham.json"
+hash = "c1af1c27cd6d03d76be9b9f86652fb6648d2b5241bd026901467855252135074"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/humble.json"
+hash = "7a4265c8c87172bdaf7ad625794ccc7e9d2c01392a0ff99037ffee6279888705"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/kebab.json"
+hash = "abd45a049d35130aed41f94632c607b862a354975bf4aa0458f187592a10c8f2"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/lowmist.json"
+hash = "835fa93e232b280a2e1c7dc3e6294aad6dbcbc8d53e230ff297cca4628b86b18"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/match.json"
+hash = "0db93d45dad031d59eadab9c6b238a62bb2c05d1b6a3d588a009b05e83a92523"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/meditative.json"
+hash = "19929da113784f123a3f39afe6cc82f0740c0984a9447faf2650b0cea50c907c"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/orb.json"
+hash = "cf94620193830b13cff9cde149a2402e74722119873a6bddb5e83aaf5885ab3e"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/owlemons.json"
+hash = "ac1b419c8e089c53516fe7cf7f45552a64e9cb4063bd7f20de19a0f6edbf9d80"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/passage.json"
+hash = "2bd8c19b63a668b43cd0a8c630d70594de92c0f039a65c9aae6d74011295fbf1"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/pigscene.json"
+hash = "fee30f35b9df822443b9db06d0b0a717001bf0168d3b6a6be9b025836b798fb0"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/plant.json"
+hash = "d3d379c8a1473d8b93d54e9255409aef2d7f945427dfbc1c82a07c55194ac26b"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/pointer.json"
+hash = "8d4069c6475def8b270ae8fab25e7ce97d4a295f84ed418082b91631d40f910e"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/pond.json"
+hash = "00d30d673858aa0966bc912ae62fcabdfb8c2c2a76e65444fdd799415d72105e"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/pool.json"
+hash = "32c40c8e91c736199b7101ee57c5256e73841d6fcff4bf0167278cd3a783affa"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/prairie_ride.json"
+hash = "325c3b6b9ccd5680977af229638907f84b4d57d97173ac300a1ac541a3985398"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/sea.json"
+hash = "6f2be36d7b23e9495ee48a14ef486381ff15f0fb650311866c89e3b9c2e588cf"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/skeleton.json"
+hash = "3e181dbc46da1c360174d548f886756f644958486c23c53019714073b10ee7b8"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/skull_and_roses.json"
+hash = "4195dd2dc87c2f27c862d726892e981f8ae88aab14aa227b6b4f84b6010101a9"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/stage.json"
+hash = "39d4fc5f02218c4f7ff226c30c35c2106e57344f2b5d5454563609ea74cd27ec"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/sunflowers.json"
+hash = "853af2612a68e52f8880e543a5a1d1b39168f4c66f86822b13566f24276aeea1"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/sunset.json"
+hash = "7d4a78b994aaa5ccfb66a6f5c60141ec6ebc17600368966a8d72c981fd8f7b67"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/tides.json"
+hash = "62c0ed9ed47e7446d13e24f33216cb76225807dd926e8188fd807d9519d9ed9c"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/unpacked.json"
+hash = "52e4fea8c66e67e229042013f30da14c2375b9491ef9ae141a784eb1d6cc0b45"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/void.json"
+hash = "7aba0f7264e8e878c6c1a66cfb3d8627fa6d70a54c7f406192786a2a312fc3a3"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/wanderer.json"
+hash = "337ffea4a7fd27ae8b24bca21efd1c983f4c913985a101c13040c3ab0e8d101a"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/wasteland.json"
+hash = "e6dc7db645a3a7a6ff195f4e9fa3a07aca34367725f1be12f5cb1690e6e60a0f"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/painting_picker/recipe/painting_variant/wither.json"
+hash = "fac3848090145a74f36b67bbe4474b5da1e454694c8f9e8af8aa7d8d3c620bba"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_71/data/vanillatweaks/advancement/root.json"
+hash = "932453fa70ac5369f7fc0435fec16809ca0558378c684670909aa128531b0de9"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_81/data/painting_picker/advancements/paintings.json"
+hash = "46e96f141040c9cd3e35c94f53c4df5cec1b49141db978e4b540622936313636"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/overlay_81/data/painting_picker/recipe/painting_variant/dennis.json"
+hash = "ba8f1d7e6290cf2e170b893e4328e8ee14bde611826d174c3f2554137858f6f2"
+
+[[files]]
 file = "datapacks/painting picker v1.1.2/pack.mcmeta"
 hash = "62b0ecca9aab5befbae8369d8a6df313832d3cb80eb49d8eb426a1aa27d208b1"
 
 [[files]]
 file = "datapacks/painting picker v1.1.2/pack.png"
 hash = "55a2cf2d4bda6e38d02cd4f83fbf4d59edaba8bb30012304b7df9496b50b95be"
+
+[[files]]
+file = "datapacks/track raw statistics v1.7.10/data/minecraft/tags/function/load.json"
+hash = "e5a78b7a94c1bf43321a817c273c8b782471fbbf4b6b22d8898b09045f289385"
+
+[[files]]
+file = "datapacks/track raw statistics v1.7.10/data/track_raw_stats/function/load.mcfunction"
+hash = "a9fb7a914e8b1b04d1d1a306d399dd81b447e8c25b274b3476ab39381c27e4cb"
+
+[[files]]
+file = "datapacks/track raw statistics v1.7.10/data/vanillatweaks/advancement/root.json"
+hash = "122f9af1c2e138b97e254a2f02baf650dc3c0b718f6a476bff65cd43503b2323"
+
+[[files]]
+file = "datapacks/track raw statistics v1.7.10/data/vanillatweaks/advancement/track_raw_stats.json"
+hash = "2107374e8079469c99bdac7953519dc952fee8ef35ff5a262187ff940e3df0f2"
+
+[[files]]
+file = "datapacks/track raw statistics v1.7.10/overlay_71/data/vanillatweaks/advancement/root.json"
+hash = "932453fa70ac5369f7fc0435fec16809ca0558378c684670909aa128531b0de9"
 
 [[files]]
 file = "datapacks/track raw statistics v1.7.10/pack.mcmeta"

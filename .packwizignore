@@ -1,9 +1,9 @@
-docker-compose.yml
-scripts/
-data/
-backups/
-resourcepack/
-dist/
+/docker-compose.yml
+/scripts/
+/data/
+/backups/
+/resourcepack/
+/dist/
 *.mrpack
-.env
-README.md
+/.env
+/README.md
