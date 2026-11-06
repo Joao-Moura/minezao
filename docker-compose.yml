@@ -5,7 +5,6 @@ services:
     environment:
       EULA: "TRUE"
       TYPE: "MODRINTH"
-      MODRINTH_MODPACK: "/modpacks/minezao.mrpack"
       MEMORY: "5G"
       USE_AIKAR_FLAGS: "true"
       TZ: "America/Sao_Paulo"
@@ -18,12 +17,18 @@ services:
       ENABLE_RCON: "TRUE"
       RCON_PASSWORD: ${RCON_PASSWORD}
 
+      # Packs
+      MODRINTH_MODPACK: "/dist/minezao.mrpack"
+      RESOURCE_PACK: "/dist/textura-jombastica.zip"
+      RESOURCE_PACK_SHA1: "c6b0c8e55534da18778234d02463e8870b1aa348"
+      RESOURCE_PACK_ENFORCE: "TRUE"
+
       # Configurações
       DIFFICULTY: "hard"
       MOTD: "\u00a7l  \u00a7r                         \u00a75\u00a7o\u00a7l\u4f3a\u670d\u5668\u5149\u74b0\u00a7r\n\u00a7b               De \u00a72\u00a7lXi Jinping\u00a7b para o mundo"
     volumes:
       - ./data:/data
-      - ./dist:/modpacks:ro
+      - ./dist:/dist:ro
     ports:
       - "25565:25565"         # jogo (TCP)
       - "24454:24454/udp"     # Simple Voice Chat

@@ -9,6 +9,10 @@ file = "datapacks/afk display v1.1.14/pack.png"
 hash = "2edfea3a56ef637eb20ab2c24aeedb3fe8c757ff7c4df0f0cb2f48b2b6463400"
 
 [[files]]
+file = "datapacks/datapack-jombastico/pack.mcmeta"
+hash = "23339f9e0c834c6b4a68cffd027717987a6ef80b3d907b808725339c6e293090"
+
+[[files]]
 file = "datapacks/multiplayer sleep v2.6.14/pack.mcmeta"
 hash = "94bda998acad7aea261cd9620827b4c3a2cf6a3074ab0d0f62330e1488b8566f"
 

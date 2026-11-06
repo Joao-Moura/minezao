@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "pack_format": 69,
+    "description": "Texturas jombásticas",
+    "supported_formats": {
+      "min_inclusive": 4,
+      "max_inclusive": 97
+    },
+    "min_format": 4,
+    "max_format": 97
+  }
+}
