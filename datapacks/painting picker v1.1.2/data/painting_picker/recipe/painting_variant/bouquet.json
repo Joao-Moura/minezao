@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:painting"
+  },
+  "result": {
+    "components": {
+      "minecraft:entity_data": {
+        "id": "minecraft:painting",
+        "variant": "bouquet"
+      }
+    },
+    "count": 1,
+    "id": "minecraft:painting"
+  }
+}

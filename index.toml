@@ -17,6 +17,14 @@ file = "datapacks/multiplayer sleep v2.6.14/pack.png"
 hash = "262c191f193dbf0e2b07152946c7b8f4ed7e0727242f673c8b868c7bfb02b25c"
 
 [[files]]
+file = "datapacks/painting picker v1.1.2/pack.mcmeta"
+hash = "62b0ecca9aab5befbae8369d8a6df313832d3cb80eb49d8eb426a1aa27d208b1"
+
+[[files]]
+file = "datapacks/painting picker v1.1.2/pack.png"
+hash = "55a2cf2d4bda6e38d02cd4f83fbf4d59edaba8bb30012304b7df9496b50b95be"
+
+[[files]]
 file = "datapacks/track raw statistics v1.7.10/pack.mcmeta"
 hash = "3bc96d14db2bbea2f041d2c852c14274da4d45f9400b7db72aadcbf6f8a1e517"
 

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:painting",
+  "result": {
+    "components": {
+      "minecraft:entity_data": {
+        "id": "minecraft:painting",
+        "variant": "stage"
+      }
+    },
+    "count": 1,
+    "id": "minecraft:painting"
+  }
+}
