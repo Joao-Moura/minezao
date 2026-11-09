@@ -11,9 +11,9 @@ services:
 
       # Segurança
       ONLINE_MODE: "TRUE"
-      # WHITELIST: "nick1,nick2"
-      # ENFORCE_WHITELIST: "TRUE"
-      # OPS: "SeuNick"
+      ENFORCE_WHITELIST: "TRUE"
+      WHITELIST: "migkuel7,JombasGnomo,Gabsfind,andrezipadinho"
+      OPS: "JombasGnomo,Gabsfind"
       ENABLE_RCON: "TRUE"
       RCON_PASSWORD: ${RCON_PASSWORD}
 
